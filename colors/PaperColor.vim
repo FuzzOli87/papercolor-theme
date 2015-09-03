@@ -43,7 +43,7 @@ if s:is_dark " DARK VARIANT
 
   " Basics:
   let s:foreground   = "#d0d0d0"
-  let s:background   = "#262626"
+  let s:background   = "#1c1c1c"
   let s:selection    = "#3a3a3a"
   let s:nontext      = "#444444"
   let s:window       = "#3a3a3a"
